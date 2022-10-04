@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Ender.png">
+<SubTexture name="Ender Down0000" x="1100" y="1736" width="350" height="376" frameX="-4" frameY="0" frameWidth="354" frameHeight="376" />
+<SubTexture name="Ender Down0001" x="1450" y="1736" width="351" height="375" frameX="0" frameY="-1" frameWidth="351" frameHeight="376" />
+<SubTexture name="Ender Down Miss0000" x="1439" y="417" width="368" height="405" frameX="-6" frameY="0" frameWidth="374" frameHeight="405" />
+<SubTexture name="Ender Down Miss0001" x="1439" y="822" width="374" height="405" frameX="-1" frameY="0" frameWidth="387" frameHeight="405" />
+<SubTexture name="Ender HEY0000" x="774" y="899" width="384" height="417" frameX="0" frameY="-10" frameWidth="384" frameHeight="427" />
+<SubTexture name="Ender HEY0001" x="389" y="899" width="385" height="419" frameX="0" frameY="-1" frameWidth="385" frameHeight="420" />
+<SubTexture name="Ender HEY0002" x="1048" y="422" width="385" height="420" frameX="0" frameY="-3" frameWidth="385" frameHeight="423" />
+<SubTexture name="Ender Idle0000" x="388" y="1319" width="384" height="407" frameX="-17" frameY="-3" frameWidth="402" frameHeight="410" />
+<SubTexture name="Ender Idle0001" x="772" y="1319" width="396" height="406" frameX="-1" frameY="-3" frameWidth="397" frameHeight="409" />
+<SubTexture name="Ender Idle0002" x="1822" y="0" width="402" height="403" frameX="0" frameY="-2" frameWidth="402" frameHeight="405" />
+<SubTexture name="Ender Idle0003" x="388" y="1319" width="384" height="407" frameX="0" frameY="-3" frameWidth="384" frameHeight="410" />
+<SubTexture name="Ender Idle0004" x="1168" y="1319" width="397" height="406" frameX="0" frameY="-3" frameWidth="403" frameHeight="409" />
+<SubTexture name="Ender Idle Shaking0000" x="1439" y="0" width="383" height="417" frameX="-1" frameY="0" frameWidth="384" frameHeight="417" />
+<SubTexture name="Ender Idle Shaking0001" x="0" y="1319" width="388" height="417" frameX="-1" frameY="0" frameWidth="391" frameHeight="417" />
+<SubTexture name="Ender Idle Shaking0002" x="0" y="899" width="389" height="420" frameX="-1" frameY="0" frameWidth="390" frameHeight="420" />
+<SubTexture name="Ender Idle Shaking0003" x="1048" y="0" width="391" height="422" frameX="0" frameY="0" frameWidth="391" frameHeight="422" />
+<SubTexture name="Ender Left0000" x="732" y="1736" width="368" height="390" frameX="0" frameY="-1" frameWidth="368" frameHeight="395" />
+<SubTexture name="Ender Left0001" x="360" y="1736" width="372" height="391" frameX="0" frameY="-4" frameWidth="372" frameHeight="395" />
+<SubTexture name="Ender Left Miss0000" x="1822" y="806" width="358" height="401" frameX="0" frameY="0" frameWidth="358" frameHeight="401" />
+<SubTexture name="Ender Left Miss0001" x="1822" y="403" width="358" height="403" frameX="0" frameY="0" frameWidth="358" frameHeight="403" />
+<SubTexture name="Ender Right0000" x="0" y="1736" width="360" height="398" frameX="-5" frameY="0" frameWidth="365" frameHeight="398" />
+<SubTexture name="Ender Right0001" x="1822" y="1207" width="360" height="399" frameX="0" frameY="0" frameWidth="360" frameHeight="399" />
+<SubTexture name="Ender Right Miss0000" x="697" y="456" width="347" height="432" frameX="0" frameY="-1" frameWidth="347" frameHeight="434" />
+<SubTexture name="Ender Right Miss0001" x="349" y="456" width="348" height="433" frameX="0" frameY="0" frameWidth="348" frameHeight="434" />
+<SubTexture name="Ender Up0000" x="0" y="456" width="349" height="443" frameX="-1" frameY="-5" frameWidth="351" frameHeight="448" />
+<SubTexture name="Ender Up0001" x="698" y="0" width="350" height="445" frameX="-1" frameY="0" frameWidth="353" frameHeight="448" />
+<SubTexture name="Ender Up Miss0000" x="349" y="0" width="349" height="452" frameX="-10" frameY="0" frameWidth="360" frameHeight="453" />
+<SubTexture name="Ender Up Miss0001" x="0" y="0" width="349" height="456" frameX="0" frameY="0" frameWidth="349" frameHeight="457" />
+</TextureAtlas>

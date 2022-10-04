@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Guinas.png">
+<SubTexture name="Guinas Down0000" x="2301" y="0" width="329" height="545" frameX="-1" frameY="0" frameWidth="331" frameHeight="545" />
+<SubTexture name="Guinas Down0001" x="2301" y="0" width="329" height="545" frameX="0" frameY="0" frameWidth="329" frameHeight="545" />
+<SubTexture name="Guinas Down0002" x="2630" y="0" width="330" height="545" frameX="-4" frameY="0" frameWidth="334" frameHeight="545" />
+<SubTexture name="Guinas Down0003" x="1532" y="724" width="329" height="550" frameX="0" frameY="-1" frameWidth="330" frameHeight="551" />
+<SubTexture name="Guinas Idle0000" x="1915" y="0" width="386" height="722" frameX="-1" frameY="0" frameWidth="387" frameHeight="724" />
+<SubTexture name="Guinas Idle0001" x="1915" y="722" width="385" height="720" frameX="0" frameY="-1" frameWidth="385" frameHeight="721" />
+<SubTexture name="Guinas Idle0002" x="0" y="1488" width="386" height="720" frameX="0" frameY="0" frameWidth="386" frameHeight="720" />
+<SubTexture name="Guinas Idle0003" x="0" y="761" width="384" height="727" frameX="0" frameY="0" frameWidth="384" frameHeight="727" />
+<SubTexture name="Guinas Left0000" x="384" y="761" width="383" height="726" frameX="0" frameY="0" frameWidth="383" frameHeight="726" />
+<SubTexture name="Guinas Left0001" x="1149" y="761" width="383" height="724" frameX="0" frameY="0" frameWidth="383" frameHeight="724" />
+<SubTexture name="Guinas Left0002" x="767" y="761" width="382" height="726" frameX="0" frameY="-2" frameWidth="382" frameHeight="728" />
+<SubTexture name="Guinas Left0003" x="1532" y="0" width="383" height="724" frameX="0" frameY="0" frameWidth="383" frameHeight="724" />
+<SubTexture name="Guinas Right0000" x="386" y="1488" width="442" height="695" frameX="-2" frameY="0" frameWidth="444" frameHeight="695" />
+<SubTexture name="Guinas Right0001" x="828" y="1488" width="441" height="695" frameX="0" frameY="0" frameWidth="441" frameHeight="695" />
+<SubTexture name="Guinas Right0002" x="1269" y="1488" width="440" height="695" frameX="0" frameY="0" frameWidth="440" frameHeight="695" />
+<SubTexture name="Guinas Right0003" x="1709" y="1488" width="445" height="692" frameX="0" frameY="0" frameWidth="445" frameHeight="692" />
+<SubTexture name="Guinas Up0000" x="1149" y="0" width="383" height="752" frameX="0" frameY="0" frameWidth="383" frameHeight="752" />
+<SubTexture name="Guinas Up0001" x="383" y="0" width="383" height="755" frameX="0" frameY="0" frameWidth="383" frameHeight="755" />
+<SubTexture name="Guinas Up0002" x="766" y="0" width="383" height="755" frameX="0" frameY="0" frameWidth="383" frameHeight="755" />
+<SubTexture name="Guinas Up0003" x="0" y="0" width="383" height="761" frameX="0" frameY="0" frameWidth="383" frameHeight="761" />
+</TextureAtlas>

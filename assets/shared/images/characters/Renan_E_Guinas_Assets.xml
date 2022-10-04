@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Renan_E_Guinas_Assets.png">
+<SubTexture name="Friends Down Note Renan0000" x="0" y="1141" width="249" height="367" frameX="-6" frameY="-3" frameWidth="261" frameHeight="370" />
+<SubTexture name="Friends Down Note Renan0001" x="1204" y="745" width="249" height="369" frameX="-4" frameY="-3" frameWidth="254" frameHeight="375" />
+<SubTexture name="Friends Idle0000" x="944" y="0" width="260" height="374" frameX="0" frameY="0" frameWidth="272" frameHeight="375" />
+<SubTexture name="Friends Idle0001" x="944" y="374" width="258" height="373" frameX="0" frameY="-1" frameWidth="258" frameHeight="375" />
+<SubTexture name="Friends Idle0002" x="0" y="768" width="257" height="373" frameX="-7" frameY="0" frameWidth="264" frameHeight="374" />
+<SubTexture name="Friends Idle0003" x="257" y="768" width="249" height="373" frameX="-1" frameY="-18" frameWidth="252" frameHeight="391" />
+<SubTexture name="Friends Left Note Guinas0000" x="472" y="0" width="236" height="378" frameX="-2" frameY="-1" frameWidth="241" frameHeight="380" />
+<SubTexture name="Friends Left Note Guinas0001" x="708" y="0" width="236" height="377" frameX="-6" frameY="-5" frameWidth="246" frameHeight="394" />
+<SubTexture name="Friends Left Note Renan0000" x="506" y="768" width="244" height="373" frameX="0" frameY="0" frameWidth="248" frameHeight="384" />
+<SubTexture name="Friends Left Note Renan0001" x="1481" y="744" width="237" height="371" frameX="-9" frameY="-3" frameWidth="247" frameHeight="376" />
+<SubTexture name="Friends Down Note Guinas0000" x="1204" y="373" width="226" height="372" frameX="-4" frameY="0" frameWidth="233" frameHeight="374" />
+<SubTexture name="Friends Down Note Guinas0001" x="247" y="0" width="225" height="379" frameX="-5" frameY="-3" frameWidth="231" frameHeight="382" />
+<SubTexture name="Friends Right Note Guinas0000" x="750" y="768" width="297" height="373" frameX="-2" frameY="0" frameWidth="303" frameHeight="375" />
+<SubTexture name="Friends Right Note Guinas0001" x="1481" y="0" width="293" height="372" frameX="-1" frameY="-1" frameWidth="294" frameHeight="374" />
+<SubTexture name="Friends Right Note Renan0000" x="1204" y="0" width="277" height="373" frameX="-4" frameY="-2" frameWidth="285" frameHeight="377" />
+<SubTexture name="Friends Right Note Renan0001" x="1481" y="372" width="277" height="372" frameX="0" frameY="-1" frameWidth="278" frameHeight="375" />
+<SubTexture name="Friends Up Note Guinas0000" x="0" y="391" width="320" height="377" frameX="-1" frameY="-3" frameWidth="325" frameHeight="381" />
+<SubTexture name="Friends Up Note Guinas0001" x="320" y="391" width="331" height="377" frameX="0" frameY="-2" frameWidth="332" frameHeight="383" />
+<SubTexture name="Friends Up Note Renan0000" x="0" y="0" width="247" height="391" frameX="0" frameY="-1" frameWidth="251" frameHeight="393" />
+<SubTexture name="Friends Up Note Renan0001" x="651" y="391" width="249" height="377" frameX="-3" frameY="-5" frameWidth="257" frameHeight="383" />
+</TextureAtlas>
