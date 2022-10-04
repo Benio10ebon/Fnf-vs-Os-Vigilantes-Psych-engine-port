@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Guinas Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Guinas Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-183
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Guinas Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				29
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Guinas Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-59
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Guinas Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Guinas",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "guinas",
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		153,
+		93
+	],
+	"camera_position": [
+		0,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

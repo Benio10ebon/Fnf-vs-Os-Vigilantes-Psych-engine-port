@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				8,
+				-15
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Friends Up Note Renan",
+			"indices": []
+		},
+		{
+			"offsets": [
+				7,
+				-29
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Friends Down Note Renan",
+			"indices": []
+		},
+		{
+			"offsets": [
+				24,
+				-25
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Friends Left Note Renan",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-23
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Friends Right Note Renan",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				-24
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Friends Right Note Guinas",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				-27
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Friends Down Note Guinas",
+			"indices": []
+		},
+		{
+			"offsets": [
+				15,
+				-15
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Friends Left Note Guinas",
+			"indices": []
+		},
+		{
+			"offsets": [
+				12,
+				-15
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Friends Up Note Guinas",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				-2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Friends Idle",
+			"indices": [
+				3
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Renan_E_Guinas_Assets",
+	"position": [
+		-140,
+		120
+	],
+	"healthicon": "reg",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		251,
+		181
+	],
+	"camera_position": [
+		-300,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 2.2
+}

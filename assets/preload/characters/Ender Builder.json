@@ -1,0 +1,162 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "Ender Idle"
+		},
+		{
+			"offsets": [
+				-27,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1
+			],
+			"name": "Ender Left"
+		},
+		{
+			"offsets": [
+				-46,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1
+			],
+			"name": "Ender Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				27
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ender Up",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ender Right",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-8
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Ender Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				7
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Ender Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				38
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Ender Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				21
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Ender Right Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Ender HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				0
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "Ender Idle Shaking",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ender",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "Ender",
+	"flip_x": true,
+	"healthbar_colors": [
+		157,
+		80,
+		231
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
